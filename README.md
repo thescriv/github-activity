@@ -1,5 +1,7 @@
 https://roadmap.sh/projects/github-user-activity
 
+https://roadmap.sh/projects/github-user-activity/solutions?u=673b52e0f20970fd48a0e12e
+
 ## Usage
 
 ```bash
